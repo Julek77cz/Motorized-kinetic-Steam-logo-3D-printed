@@ -93,6 +93,14 @@ Julian Blahák
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Design Phase - CAD Model and Documentation
+
+- Designed 3D model in Fusion 360 (~15h)
+- Researched and selected components (~2h)
+- Created BOM with links (~3h)
+- Wrote documentation and README (~4h)
+- Total time: approximately 25 hours
+
 ## BOM
 
 Category,Item,Need (pcs),Pack Size,Status,Link
