@@ -33,7 +33,7 @@ I haven't printed and built it yet because I am missing a lot of hardware and cu
 
 <img width="831" height="906" alt="image" src="https://github.com/user-attachments/assets/9c16e355-6348-4953-af8a-604c89182fba" />
 
-### Wiring diagram
+### Wiring
 
 Wiring: 12V PSU → PWM controller → motor
 
