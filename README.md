@@ -35,7 +35,7 @@ I haven't printed and built it yet because I am missing a lot of hardware and cu
 
 ### Wiring diagram
 
-<img width="1720" height="800" alt="image" src="https://github.com/user-attachments/assets/6964ff83-f4d7-479b-910a-5ced83c1f57c" />
+Wiring: 12V PSU → PWM controller → motor
 
 ## Getting Started
 
@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Researched and selected components (~2h)
 - Created BOM with links (~3h)
 - Wrote documentation and README (~4h)
-- Total time: approximately 25 hours
+- Total time: approximately 24 hours
 
 ## BOM
 
