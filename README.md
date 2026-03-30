@@ -83,7 +83,8 @@ See **BOM.csv** for complete list with links, or at the bottom of this file.
 | `steam logo.step` | STEP file of complete 3D model |
 | `steam logo.f3d` | Fusion 360 source file |
 | `BOM.csv` | Bill of Materials with links |
-| `wiring_diagram.svg` | Wiring schematic |
+
+No firmware required - uses PWM potentiometer controller for speed adjustment.
 
 ## Author
 
